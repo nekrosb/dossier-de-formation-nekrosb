@@ -2,4 +2,7 @@
 title: Tools I use
 ---
 
-## Cli on linux
+## CLI on linux
+
+This section collects the tools and workflows used during development, from
+the terminal to the editor and build tools.

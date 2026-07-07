@@ -2,7 +2,8 @@
 title: TypeScript HTML & CSS Todo List
 ---
 
-I built a simple todo list using plain HTML, CSS, and TypeScript to solidify my understanding of the core concepts without any major frameworks.
+A simple todo list built with plain HTML, CSS, and TypeScript to practice the
+core concepts without a framework.
 
 [GitHub Repository - Todo App](https://github.com/nekrosb/to-do-app-nekrosb)
 
